@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is aimed at predicting diabetes using machine learning models. The analysis is based on a dataset of diagnostic measurements to build predictive models. predict diabetes in patients based on their medical history and demographic information. 
+This project is aimed at predicting diabetes using machine learning models. The analysis is based on a dataset of diagnostic measurements to build predictive models. 
 
 ## Objectives
 
