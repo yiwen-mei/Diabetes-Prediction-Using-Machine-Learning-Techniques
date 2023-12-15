@@ -7,7 +7,7 @@ This project is aimed at predicting diabetes using machine learning models. The 
 ## Objectives
 
 - Preprocess the dataset to fit machine learning models.
-- Utilize models like RandomForest, GradientBoosting, LogisticRegression and Neural Network for prediction.
+- Utilize models like Random Forest, Gradient Boosting, Logistic Regression and Neural Network for prediction.
 - Tune the hyperparameters using GridSearchCV.
 - Evaluate model performance and identify patients who may be at risk of having diabetes, which is helpful for developing personalized treatment plans.
 
